@@ -54,9 +54,9 @@
 })();
 */
 const messages = [
-    "Are you sure? That why you tattoo a rub off",
+    "Are you sure? That's why you tattoo a rub off",
     "Really sure?? Think bout it fr",
-    "Are you positive? Yuh no rate me fr",
+    "Yuh no rate me enuh. Mi go delete all a yuh playlist dem",
     "Smh...",
     "Just think about it! Cause if you seh no mi go pree you",
     "If you say no, I will be really sad.",
