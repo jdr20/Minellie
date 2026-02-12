@@ -54,14 +54,14 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
+    "Are you sure? That why you tattoo a rub off",
+    "Really sure?? Think bout it fr",
+    "Are you positive? Yuh no rate me fr",
+    "Smh...",
+    "Just think about it! Cause if you seh no mi go pree you",
+    "If you say no, I will be really sad.",
+    "Cut e foolishness...",
+    "Minellie stop...",
     "Ok fine, I will stop asking...",
     "Just kidding, say yes please! ❤️"
 ];
